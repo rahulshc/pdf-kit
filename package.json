@@ -1,0 +1,16 @@
+{
+  "name": "pdf-kit",
+  "version": "1.0.0",
+  "description": "pdf-generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "pdfkit": "^0.11.0"
+  }
+}
