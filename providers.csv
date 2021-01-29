@@ -1,64 +1,97 @@
-name,gender,age,father,husband,address,ps
-NITIN KUMAR,Male,30,Devendra Lal Das,,"Vill - Lakshmipur, P.O. - Madhepur, District - Madhubani, Bihar - 847408",Madhepur
-RINA KUMARI,Female,31,Lal prasad gupta,,Vill+post-falka,Falka
-DEOJATI YADAV,Female,29,RAMBALI YADAV,,VILLAGE FATEHPUR POST MANJHAULI DISTRICT GAYA,WAJIRGANJ
-SHEELA KUMARI,Female,40,Mohan Lal Prasad,,Muzaffarpur,Sakra
-ROHIT KUMAR,Male,32,Binod Kumar,,"Pashupalan gali, chhoti Daulatpur, Jamalpur, Munger ,Bihar-811214",Jamalpur
-SUBODH KUMAR PASWAN,Male,31,Bijendra bhushan,,"Sahdei buzurj , dist-vaishali ,pin-844509",Sahdei buzurj
-SIDDHARTH,Male,29,Mithilesh kunar singh,,"Bagmali lalganj , hajipur vaishali , bihar",Hajipur
-UMANATH VISHWAKARMA,Male,34,Late Sri Ramnath,,B-594 Indira Nagar Colony Awas Vikas Raebareli,Indira Nagar Police Chauki
-RAVI RANJAN,Male,32,MAHENDRA PRASAD SINGH,,"VILL POST MIRJANAGAR, DIST VAISHALI ,BIHAR- 844122",MAHUA
-SONU KUMAR KUSHWAHA,Male,28,Ramlakhan Prasad Kushwaha,,"vill-Bhasurari, PO-Rajpur Madan,West champaran",Shikar pur
-VINAY KUMAR SINGH,Male,32,Mahendra Singh,,Nisarpura,Kanpa
-DIPIKA PRIYADARSHNI,Female,28,Lalit Kumar,,"A.G.Colony Near Shiv Mandir P.O.-Shastri Nagar Patna-800023",Shastri Nagar
-RANJU KUMARI,Female,26,KESHAR PRASAD,,"MANPUR BAIJNATH SAHAYLANE ,PATWATOLI ,P.O+P.S: BUNIYADGANJ,GAYA,PIN 823003",BUNIYADGANJ GAYA
-AYESHA ZAREE,Female,30,ABDUL HADI,,"HADI VILLA, MOH.CHHAJJU, CHAMAN TOLA BIHAR SHARIF, NALANDA",Bihar Sharif
-GEETANJALI,Female,26,Sita Ram Thakur,,Barh,Barh
-LOK NATH,Male,27,lakhan prasad,,a-45 block -3 ganaga apartment mainpura patna,patliputra
-SHARDHANJALI KUMARI,Female,30,Devendra kumar,,"Bhupatipur,patna",Ram Krishna nagar
-ANKIT KUMAR SHARMA,Male,30,SUBODH SHARMA,,"AT-TARAR ,PO-TARAR,PS-SANHAULA,DIST-BHAGALPUR,PIN-813205",SANHAULA
-PRITI ROY,Female,28,Mahesh prasad Roy,,"Shyampur,kahalgaon",Lalapur
-RAHUL KUMAR,Male,29,Vinod Prasad,,Chowk Bazar Darauli Siwan Bihar,Darauli Siwan Bihar
-RASHMI RANJAN,Female,26,RANJAN KUMAR CHOUDHARY,,"PHULWARI SHARIF,PATNA",PHULWARI SHARIF
-SACHU KUMAR RAM,Male,27,Nand prasad ram,,"Seryan ward 2, Yadavpur road , Gopalganj Bihar-841428",Gopalganj
-AMAN NIKHIL KUMAR,Male,26,AJAT SHATRU,,Vill-Beldhar Post-Sonsihari Nawada Bihar,Muhfashil
-SHEETAL KUMARI,Female,35,Umesh Kumar Mahto,,"By pass road, Ward No 4, Near P S College, Madhepura, Bihar 852113",Madhepura
-NIKET KUMAR,Male,31,Hari Mohan Mishra,,"Near Railway Over Bridge, Shiv Mandir, Sahani Tola, Maripur, Muzaffarpur (Bihar)",Kazi Mohammadpur
-MD ZEYAUL HAQUE,Male,32,MD Ehsanul Haque,,"Moh- Maulaganj, post - lalbagh, Dist-Darbhanga Bihar, 846004",Laheriyasarai
-HRISHIKESH MANDAL,Male,38,Sahadeo Mandal,,Kalibari sarra po:- garhbanaili purnia,Kasba
-POOJA RANI,Female,26,Hriday Kumar,NA,Ranchi Jharkhand,Argora
-RAHUL KUMAR,Male,30,Shiv kumar prasad sudhakar,,Mehandibag godavari road gaya,vishnupad
-SHEKHAR KUMAR,Male,28,Ganesh Mandal,,Laheri Tola Bhagalpur,Tatarpur
-RAHUL KUMAR SINGH,Male,32,ASHOK KUMAR SINGH,,VIL PO-GAMAIL VIA-BIHARIGANJ DIST-MADHEPURA BIHAR PIN-852101,BIHARIGANJ
-SHIVENDRA SHIVAM,Male,30,Jai Kumar jha,,Shantinath chowk behat Jhanjharpur 847403,Lakhnaur
-JAISHREE MANDAL,Female,32,RADHEY SHYAM MANDAL,,East shivpuri west professor's colony patna,Shastri nagar
-RAJNIKANT KUMAR,Male,28,Vishnupad Prasad,,"Shankarpur Imamganj, Paliganj, Patna-804426",Paliganj
-NITESH KUMAR,Male,25,Shashi bhushan Sharma,,Rajapur Bodhgya Gaya Bihar-824231,Bodhgya
-SUSHIL CHAND,Male,30,Chandeshwar prasad,,Village tankupi haspura aurangabad,Haspura
-AVINASH KUMAR SINGH,Male,26,Sunil Kumar Singh,,"Vill saraon, PO saraon, Rohtash bihar",Natwar
-RAJEEV RANJAN,Male,0,Krishna Pandit,,SANDALPUR Road,Bahadurpur
-AMIT KUMAR,Male,26,SHIVJEE PRASAD,,"CHOUDHRIYANA HATA C.K. ROAD ARA, BHOJPUR BIHAR 802301",NAGAR THANA ARA
-SHREYA ANAND,Female,26,Arvind Kumar,,JN Singh Lane,Sultanganj
-RAJIV KUMAR,Male,35,Ramjee choudhary,,"Vill- Telhara, Post- Telhara, Dist- Nalanda, Pin- 801306",Telhara
-GAURAV KUMAR,Male,30,Late Ram Nath Verma,,"Vill+PO+PS-Kinjer,Arwal,Bihar",Kinjer
-ALOK KUMAR,Male,40,Gopal jee sahay,,"Sahay sadan, station road, Begusarai",Begusarai
-KIRAN KUMARI,Female,30,SUKHDEO Paswan,,Grain Sho Para,Katihar
-CHANDAN KUMAR,Male,30,Bikrama singh,,Vill + post bihta PO imadpur DIS BHOJPUR PIN 802209,Imadpur
-ROHIT KUMAR,Male,31,Suresh Kumar Rai,,"Vill- Dhuparchak, P. O. Alampur Gonepura, P.S. Janipur, Patna","Janipur, Patna"
-MILIND ANAND,Male,32,Mahendra Kumar Roy,,"S/O Mahendra Kumar Roy , Nawrattan Hata Purnea, PIN-854301",Khazanchi Hat
-ADITYA KUMAR,Male,37,Basuki nath singh,,"C/o late sri Nakul prasad singh, kalyan kunj, vill+post - Rata, Dist - Banka, Bihar",Khesar
-SHASHI RANJAN KUMAR,Male,31,RAM NARESH AZAD,,"VILL- JAGATPUR, PO+PS- TELMAR, DIST.- NALANDA, BIHAR - 803204",TELMAR
-VANDANA KUMARI,Female,34,Siya ram rajak,,Bhagwat nagar patna,Agam kua
-ARUN KUMAR,Male,41,Mr. Ramdeo Prasad,,"Vill +Post- Gidha, Post-Bhojpur, bihar",Koilwar
-SAMAR SINGH,Male,34,Late Ramswaroop Singh,,"VPO-DUGREI, DISTT.-FATEHPUR,212663 U.P.",BINDAKI
-MD.SHAMBEEL AZIM,Male,30,Md Iftekhar Azim,,"Aashiana-e-Tahera, Islamnagar, Bhikanpur 3, Bhagalpur 812001, Bihar",Ishakchak
-DEEPAK KUMAR,Female,32,Sri Harish Chandra Choudhary,,Laxmi chowk muzaffarpur,Muzaffarpur
-ANJALI SINGH,Female,26,Yogendra kumar singh,,"Qrt no-l2/45,p.i.t colony,kanakarbagh",Patrakar nagar
-RITESH SRIVASTAVA,Male,26,Sanjay Prakash Srivastava,,"Type 4, 279, ATP Colony, Anpara,Sonbhadra, Uttar pradesh 231225",Anpara
-PREETI KUMARI,Female,30,Ashwini Mahto,Late Om Prakash Kumar,"Jodhadih More, Chandankyari Road, Chas, Bokaro, Jharkhand-827013",Chas
-NEERAJ KUMAR SINGH,Male,29,Arun Kumar Dingh,,"Vill Atimiganj, PO Mahadeva, Rohtas Bihar 821310",Nasriganj
-RAHUL KUMAR,Male,27,Kailash Prasad Singh,,"Panchwati Chowk, Saharsa",Saharsa
-RAJ BAHADUR,Male,38,JAI PRAKASH PRASAD,,"G/S LATE GANESH PRASAD, VILL+POST -NAINI, DIST -CHAPRA SARAN, BIHAR-841316",CHAPRA MUFSIL
-SANJAY KUMAR SINGH,Male,30,VIJAY KUMAR SINGH,,Anumandal chowk masaurhi court halt.,Masaurhi
-AMITA KUMARI,Female,26,Arjun kumar rajak,,Rampur road bazar samiti main gate po- Mahendra patna-800006,Bahadurpur
-Sonu Kumar,Male,32,Jagdish Prasad,,"Devi sthan street, isopur, po- phulwari sharif, patna- 801505",Phulwari Sharif
+si,name,gender,age,father,address
+1,Nitin Kumar,Male,30,Devendra Lal Das,"Vill - Lakshmipur, P.O. - Madhepur, District - Madhubani, Bihar - 847408"
+2,Nitya Kumari,Female,28,Sunil Kumar,"Prabhat Nagar Colony, Bhagwanpur Chawk, Muzaffarpur, Muzaffarpur, Bihar-842001"
+3,Swati Suman,Female,32,G.N.P Singh,"Flat No-E/201, Ntpc Apt. Phase 2, Rajeev Nagar, Patna, Bihar-800025"
+4,Preeti,Female,30,Ashok Kumar Vishwakarma,"Vill- Fulka Gumit, Jamalpur, Jamalpur, Munger, Bihar-811214"
+5,Vikram Kumar,Male,30,Bhagwan Das,"S/O Bhagwan Das, Near Middle School Panchmahala, Mokama, Patna, Bihar-803303"
+6,Rina Kumari,Female,31,Lal Prasad Gupta,"Vill+Post-Falka, Katihar-854114"
+7,Deojati Yadav,Female,29,Rambali Yadav,Village Fatehpur Post Manjhauli District Gaya
+8,Srikant Gupta,Male,29,Harendra Sah,"Village: Satahan Kachahari Tola, Post - Nawadih, P.S - Paharpur, District - East Champaran, Pin - 845458"
+9,Sheela Kumari,Female,40,Late Mohan Lal Prasad,"Vill- Majhoulia, Po- Chandanpatti, Sakra, Muzaffarpur-843104"
+10,Rohit Kumar,Male,32,Binod Kumar,"Pashupalan Gali, Chhoti Daulatpur, Jamalpur, Munger ,Bihar-811214"
+11,Subodh Kumar Paswan,Male,31,Bijendra Bhushan,"Sahdei Buzurj , Dist-Vaishali ,Pin-844509"
+12,Siddharth,Male,29,Mithilesh Kunar Singh,"Bagmali Lalganj , Hajipur Vaishali , Bihar"
+13,Umanath Vishwakarma,Male,34,Late Sri Ramnath,B-594 Indira Nagar Colony Awas Vikas Raebareli
+14,Ravi Ranjan,Male,32,Mahendra Prasad Singh,"Vill Post Mirjanagar, Dist Vaishali ,Bihar- 844122"
+15,Moti Kumari,Female,30,Bhola Singh,"Vill- Harpurgopal, Khanpur Pakari, Bidupur, Vaishali, Bihar-844115"
+16,Sonu Kumar Kushwaha,Male,28,Ramlakhan Prasad Kushwaha,"Vill-Bhasurari, Po-Rajpur Madan,West Champaran"
+17,Annu Kumari,Female,28,Late Kameshwar Roy,"Vill- Mahisar, Bhawanipur, Singhwara, Darbhanga, Bihar-847104"
+18,Vinay Kumar Singh,Male,32,Mahendra Singh,"Vill- Ekbalganj Nisharpur, Kanpa, Patna-801112"
+19,Dipika Priyadarshni,Female,28,Lalit Kumar,"A.G.Colony Near Shiv Mandir,P.O.-Shastri Nagar, Patna-800023"
+20,Ranju Kumari,Female,26,Keshar Prasad,"Manpur Baijnath Sahaylane ,Patwatoli ,P.O+P.S: Buniyadganj,Gaya,Pin 823003"
+21,Ayesha Zaree,Female,30,Abdul Hadi,"Hadi Villa, Moh.Chhajju, Chaman Tola Bihar Sharif, Nalanda"
+22,Rinky Kumari,Female,26,Mahesh Lal,"Anand Bazar, Danapur, Patna-801503"
+23,Anjali Kumari,Female,31,Prem Nath Sah,"Kazibagh, Gulzarbagh, Alamganj, Patna, Bihar-800007"
+24,Anjali,Female,28,Manoj Kumar Singh,"8, Beside Kali Temple, Haweli Khraghpur, Munger, Bihar, 811213"
+25,Geetanjali,Female,26,Sita Ram Thakur,Barh
+26,Aditya Kaushal Ranjan,Male,33,Prabhat Ranjan,"Madanpur, Madanpur, Ekangarsarai, Nalanda, Bihar, 801301"
+27,Lok Nath,Male,27,Lakhan Prasad,A-45 Block -3 Ganaga Apartment Mainpura Patna
+28,Shardhanjali Kumari,Female,30,Devendra Kumar,"Bhupatipur,Patna"
+29,Ankit Kumar Sharma,Male,30,Subodh Sharma,"At-Tarar ,Po-Tarar,Ps-Sanhaula,Dist-Bhagalpur,Pin-813205"
+30,Priti Roy,Female,28,Mahesh Prasad Roy,"Shyampur,Kahalgaon"
+31,Bobby Vijeta,Female,27,Ganga Prasad Mahto,"Vill+Po-Arjuntol P.S-Cheriya Bariyarpur, Begusarai-851132"
+32,Rahul Kumar,Male,29,Vinod Prasad,Chowk Bazar Darauli Siwan Bihar
+33,Rashmi Ranjan,Female,26,Ranjan Kumar Choudhary,"Phulwari Sharif,Patna"
+34,Anjali,Female,26,Anil Prasad,"Vill-Bhavchak, Malichak, Barbigha, Sheikhpura, Bihar-811101"
+35,Sachu Kumar Ram,Male,28,Nand Prasad Ram,"Seryan Ward 2, Yadavpur Road , Gopalganj Bihar-841428"
+36,Ipsa Ish,Female,26,Umesh Kumar Singh,"C/O - Umesh Kumar Singh, Road No. - 08, Vijay Nagar, Bailey Road, Patna-800014, Bihar"
+37,Md.Equbal Naiyar Ansari,Male,28,Md. Badruddin Ansari,"Ward No -5, Jiwachhpur, Ps-Bhimpur, Supaul, Bihar-852125"
+38,Mukesh Kumar,Male,33,Sita Ram Paswan,"Nawadih, Nawadih, Rupow, Nawada, Bihar-805106"
+39,Aman Nikhil Kumar,Male,26,Ajat Shatru,Vill-Beldhar Post-Sonsihari Nawada Bihar
+40,Sheetal Kumari,Female,35,Umesh Kumar Mahto,"By Pass Road, Ward No 4, Near P S College, Madhepura, Bihar 852113"
+41,Niket Kumar,Male,31,Hari Mohan Mishra,"Near Railway Over Bridge, Shiv Mandir, Sahani Tola, Maripur, Muzaffarpur (Bihar)"
+42,Md Zeyaul Haque,Male,32,Md Ehsanul Haque,"Moh- Maulaganj, Post - Lalbagh, Dist-Darbhanga Bihar, 846004"
+43,Hrishikesh Mandal,Male,38,Sahadeo Mandal,Kalibari Sarra Po:- Garhbanaili Purnia
+44,Pooja Rani,Female,26,Hriday Kumar,Ranchi Jharkhand
+45,Rahul Kumar,Male,30,Shiv Kumar Prasad Sudhakar,Mehandibag Godavari Road Gaya
+46,Shekhar Kumar,Male,29,Ganesh Mandal,Laheri Tola Bhagalpur
+47,Rahul Kumar Singh,Male,33,Ashok Kumar Singh,Vil Po-Gamail Via-Bihariganj Dist-Madhepura Bihar Pin-852101
+48,Shivendra Shivam,Male,30,Jai Kumar Jha,Shantinath Chowk Behat Jhanjharpur 847403
+49,Anuradha Kumari,Female,30,Shyam Karan,"C/O, Maheshwari Rajak, Ashanagar, Soh Sarai, Nalanda, Bihar-803118"
+50,Jaishree Mandal,Female,32,Radhey Shyam Mandal,East Shivpuri West Professor'S Colony Patna
+51,Pankaj Kumar,Male,31,Govind Prasad Gupta,"Bandhawan, Barkagaon, Tarari, Bhojpur, Bihar-802209"
+52,Rajnikant Kumar,Male,28,Vishnupad Prasad,"Shankarpur Imamganj, Paliganj, Patna-804426"
+53,Pooja Kumari,Female,27,Bhola Rai,"Ward No. 04, Behind High School, Hajipur Sadar, Vaishali, Bihar-844102"
+54,Nitesh Kumar,Male,25,Shashi Bhushan Sharma,Rajapur Bodhgya Gaya Bihar-824231
+55,Sushil Chand,Male,30,Chandeshwar Prasad,Village Tankupi Haspura Aurangabad
+56,Avinash Kumar Singh,Male,26,Sunil Kumar Singh,"Vill Saraon, Po Saraon, Rohtash Bihar"
+57,Ranjay Kumar Ranjan,Male,35,Ram Vinay Yadav,"Ram Vinay Yadav, Lakshmipur, Garhpura, Begusrai, Bihar-848204"
+58,Rajeev Ranjan,Male,31,Krishna Pandit,Sandalpur Road
+59,Shankar Kumar,Male,29,Dinesh Roy,"Bishoul, Manigachhi, Manigachhi, Darbhanga, Bihar-800005"
+60,Amit Kumar,Male,26,Shivjee Prasad,"Choudhriyana Hata C.K. Road Ara, Bhojpur Bihar 802301"
+61,Shreya Anand,Female,26,Arvind Kumar,Jn Singh Lane
+62,Simpi Kumari,Female,32,Harish Chandra Choudhary,"Police Line Road, Brahmpura, Muzaffarpur, Bihar, 842003"
+63,Vandana Bharti,Female,27,Dharmendra Kumar,"Vill-Bardih, Islampur, Islampur, Nalanda, Bihar-801303"
+64,Rajiv Kumar,Male,35,Ramjee Choudhary,"Vill- Telhara, Post- Telhara, Dist- Nalanda, Pin- 801306"
+65,Gaurav Kumar,Male,30,Late Ram Nath Verma,"Vill+Po+Ps-Kinjer,Arwal,Bihar"
+66,Alok Kumar,Male,40,Gopal Jee Sahay,"Sahay Sadan, Station Road, Begusarai"
+67,Kiran Kumari,Female,30,Sukhdeo Paswan,Grain Sho Para
+68,Chandan Kumar,Male,30,Bikrama Singh,Vill + Post Bihta Po Imadpur Dis Bhojpur Pin 802209
+69,Rohit Kumar,Male,31,Suresh Kumar Rai,"Vill- Dhuparchak, P. O. Alampur Gonepura, P.S. Janipur, Patna"
+70,Milind Anand,Male,32,Mahendra Kumar Roy,"S/O Mahendra Kumar Roy , Nawrattan Hata Purnea, Pin-854301"
+71,Aditya Kumar,Male,37,Basuki Nath Singh,"C/O Late Sri Nakul Prasad Singh, Kalyan Kunj, Vill+Post - Rata, Dist - Banka, Bihar"
+72,Shashi Ranjan Kumar,Male,31,Ram Naresh Azad,"Vill- Jagatpur, Po+Ps- Telmar, Dist.- Nalanda, Bihar - 803204"
+73,Vandana Kumari,Female,34,Siya Ram Rajak,Bhagwat Nagar Patna
+74,Reema Ragni,Female,28,Indra Narayan Mahaseth,"Vill-Hathiyahi, Biraul, Khajauli, Madhubani, Bihar-847228"
+75,Jayant Kumar,Male,30,Madan Kumar Mehta,"Jhiktiya, Po- Laxmipur, Korha, Katihar, Bihar-854104"
+76,Arun Kumar,Male,42,Mr. Ramdeo Prasad,"Vill +Post- Gidha, Post-Bhojpur, Bihar"
+77,Samar Singh,Male,34,Late Ramswaroop Singh,"Vpo-Dugrei, Distt.-Fatehpur,212663 U.P."
+78,Pankaj Kumar,Male,31,Dashrath Mahto,"56, Bakiya Bap,  Halsi, Lakhisarai, Bihar-811107"
+79,Reshma Perveen,Female,27,Soofi Azam,"C/O Keshav Paswan,In Front Of Post Office,Nariyalghat,Takiyapar,Danapur Cantt ,Patna 800012"
+80,Md.Shambeel Azim,Male,30,Md Iftekhar Azim,"Aashiana-E-Tahera, Islamnagar, Bhikanpur 3, Bhagalpur 812001, Bihar"
+81,Deepak Kumar,Female,32,Sri Harish Chandra Choudhary,Laxmi Chowk Muzaffarpur
+82,Anjali Singh,Female,26,Yogendra Kumar Singh,"Qrt No-L2/45,P.I.T Colony,Kanakarbagh"
+83,Ritesh Srivastava,Male,26,Sanjay Prakash Srivastava,"Type 4, 279, Atp Colony, Anpara,Sonbhadra, Uttar Pradesh 231225"
+84,Satya Prakash,Male,40,Chandrika Mistri,"Kusumpuram, Bely Road, Danapur Cantt, Patna"
+85,Deepmala,Female,26,Bindu Rajak,"116, Vastu Ganga Colony, Gola Road, Danapur, 801503"
+86,Preeti Kumari,Female,30,Ashwini Mahto,"Jodhadih More, Chandankyari Road, Chas, Bokaro, Jharkhand-827013"
+87,Sushmita,Female,28,Devendra Sharma,"H.No.4, Shakti Path, Shastri Nagar, Patna, 800023"
+88,Neeraj Kumar Singh,Male,29,Arun Kumar Dingh,"Vill Atimiganj, Po Mahadeva, Rohtas Bihar 821310"
+89,Rahul Kumar,Male,27,Kailash Prasad Singh,"Panchwati Chowk, Saharsa"
+90,Raj Bahadur,Male,38,Jai Prakash Prasad,"G/S Late Ganesh Prasad, Vill+Post -Naini, Dist -Chapra Saran, Bihar-841316"
+91,Sanjay Kumar Singh,Male,30,Vijay Kumar Singh,Anumandal Chowk Masaurhi Court Halt.
+92,Supriya,Female,28,Pradyot Kumar Singh,"Flat No-205, Vishwa Sakuntal Apartment, Shiv Puri-800023"
+93,Sumit Kumar,Male,29,Upendra Singh,"Dwarika Bigha, Chero, Harnaut, Nalanda-803110"
+94,Swati Priya,Female,26,Prabhu Narayan Prasad,"Kolua Paigambarpur, Ahiyapur, Muzaffarpur-843108"
+95,Amita Kumari,Female,26,Arjun Kumar Rajak,Rampur Road Bazar Samiti Main Gate Po- Mahendra Patna-800006
+96,Sonu Kumar,Male,32,Jagdish Prasad,"Devi Sthan Street, Isopur, Po- Phulwari Sharif, Patna- 801505"
